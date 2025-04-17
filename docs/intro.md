@@ -1,8 +1,14 @@
+import Head from '@docusaurus/Head';
+
+<Head>
+  <meta name="algolia-site-verification" content="397D97110DFECF56" />
+</Head>
+
 ---
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Tutorial IntroTest
 
 Let's discover **Docusaurus in less than 5 minutes**.
 
